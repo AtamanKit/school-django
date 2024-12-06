@@ -1,0 +1,18 @@
+first_name,last_name,email,date_of_birth,gender,enrollment_number,date_of_enrollment,program,is_active,created_at,updated_at
+John,Doe,john.doe@example.com,2000-01-15,M,ENR0001,2020-09-01,Computer Science,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Jane,Smith,jane.smith@example.com,1999-05-20,F,ENR0002,2020-09-01,Information Technology,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Alice,Johnson,alice.johnson@example.com,2001-03-14,F,ENR0003,2021-09-01,Mechanical Engineering,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Bob,Brown,bob.brown@example.com,1998-07-30,M,ENR0004,2019-09-01,Electrical Engineering,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Charlie,Davis,charlie.davis@example.com,2002-11-12,M,ENR0005,2022-09-01,Civil Engineering,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Emily,Wilson,emily.wilson@example.com,2000-04-18,F,ENR0006,2020-09-01,Business Administration,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+David,Martinez,david.martinez@example.com,1999-08-25,M,ENR0007,2019-09-01,Economics,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Sophia,Garcia,sophia.garcia@example.com,2001-12-05,F,ENR0008,2021-09-01,Mathematics,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Ethan,Taylor,ethan.taylor@example.com,2000-06-10,M,ENR0009,2020-09-01,Physics,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Isabella,Hernandez,isabella.hernandez@example.com,2002-02-21,F,ENR0010,2022-09-01,Chemical Engineering,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Michael,Clark,michael.clark@example.com,1998-09-01,M,ENR0011,2018-09-01,Architecture,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Olivia,Lee,olivia.lee@example.com,2001-10-09,F,ENR0012,2021-09-01,Environmental Science,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+James,Lopez,james.lopez@example.com,1999-11-03,M,ENR0013,2019-09-01,Political Science,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Emma,Gonzalez,emma.gonzalez@example.com,2000-03-19,F,ENR0014,2020-09-01,Biotechnology,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Alexander,Walker,alexander.walker@example.com,2002-05-25,M,ENR0015,2022-09-01,Data Science,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+Mia,Young,mia.young@example.com,2001-01-17,F,ENR0016,2021-09-01,Philosophy,True,2024-12-06 16:42:00,2024-12-06 16:42:00
+William,Hill,william.hill@example.com,2000-07-22,M,ENR0017,2020-09-01,Psychology,True,2024-12-06 16:42:00,2024-12-06 16:42:00
