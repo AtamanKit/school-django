@@ -1,0 +1,8 @@
+name,code,description,credits,is_active,created_at,updated_at
+Introduction to Python,CS101,"Learn the basics of Python programming, including syntax, data structures, and problem-solving techniques.",3,True,2024-12-08 16:59:57.661942,2024-12-08 16:59:57.661942
+Data Structures and Algorithms,CS201,Explore fundamental data structures and algorithms for efficient problem-solving.,4,True,2024-12-07 16:59:57.661942,2024-12-07 16:59:57.661942
+Web Development with Django,WD301,Develop dynamic web applications using the Django framework.,4,True,2024-12-06 16:59:57.661942,2024-12-06 16:59:57.661942
+Database Systems,DB101,"Learn about relational databases, SQL, and database design principles.",3,True,2024-12-05 16:59:57.661942,2024-12-05 16:59:57.661942
+Machine Learning Basics,ML101,"Introduction to machine learning concepts, algorithms, and their applications.",4,True,2024-12-04 16:59:57.661942,2024-12-04 16:59:57.661942
+Computer Networks,CN101,Understand the principles and protocols of computer networking.,3,True,2024-12-03 16:59:57.661942,2024-12-03 16:59:57.661942
+Software Engineering,SE101,Learn the methodologies and practices of software development.,3,True,2024-12-02 16:59:57.661942,2024-12-02 16:59:57.661942
