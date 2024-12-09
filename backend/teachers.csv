@@ -1,0 +1,6 @@
+first_name,last_name,email,date_of_birth,gender,hire_date,phone_number,address,is_active,created_at,updated_at
+Emma,Taylor,emma.taylor@example.com,1988-02-10,F,2016-05-01,+1122334455,101 Apple St, Greenfield,True,2024-12-08 18:22:00,2024-12-08 18:22:00
+Liam,Jones,liam.jones@example.com,1982-11-15,M,2012-08-20,+2233445566,202 Orange St, Bluefield,True,2024-12-08 18:22:00,2024-12-08 18:22:00
+Olivia,Martinez,olivia.martinez@example.com,1990-07-07,F,2018-09-15,+3344556677,303 Peach St, Redfield,True,2024-12-08 18:22:00,2024-12-08 18:22:00
+Noah,Brown,noah.brown@example.com,1985-12-25,M,2014-04-12,+4455667788,404 Cherry St, Yellowfield,True,2024-12-08 18:22:00,2024-12-08 18:22:00
+Sophia,Anderson,sophia.anderson@example.com,1992-05-18,F,2021-01-25,+5566778899,505 Grape St, Whitefield,True,2024-12-08 18:22:00,2024-12-08 18:22:00
