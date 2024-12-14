@@ -1,0 +1,31 @@
+name,code,description,credits,is_active,created_at,updated_at,teacher_id
+History,CSE001,History course description.,2,True,2023-12-28 14:27:24,2024-11-14 14:27:24,3
+Mathematics,CSE002,Mathematics course description.,3,True,2024-10-19 14:27:24,2024-12-05 14:27:24,5
+Computer Science,CSE003,Computer Science course description.,5,True,2024-11-17 14:27:24,2024-12-12 14:27:24,5
+Physics,CSE004,Physics course description.,4,False,2024-09-22 14:27:24,2024-12-10 14:27:24,4
+Chemistry,CSE005,Chemistry course description.,1,False,2024-12-08 14:27:24,2024-11-28 14:27:24,1
+Biology,CSE006,Biology course description.,1,True,2024-08-11 14:27:24,2024-11-19 14:27:24,4
+Economics,CSE007,Economics course description.,2,False,2024-03-21 14:27:24,2024-11-13 14:27:24,4
+Philosophy,CSE008,Philosophy course description.,2,False,2024-02-16 14:27:24,2024-12-02 14:27:24,5
+Literature,CSE009,Literature course description.,1,True,2024-09-25 14:27:24,2024-12-12 14:27:24,1
+Geography,CSE010,Geography course description.,3,True,2024-09-17 14:27:24,2024-11-26 14:27:24,1
+Art,CSE011,Art course description.,5,True,2024-04-23 14:27:24,2024-11-29 14:27:24,5
+Music,CSE012,Music course description.,4,True,2024-02-24 14:27:24,2024-12-13 14:27:24,4
+Sociology,CSE013,Sociology course description.,1,False,2024-02-27 14:27:24,2024-12-01 14:27:24,2
+Psychology,CSE014,Psychology course description.,4,True,2024-05-07 14:27:24,2024-12-10 14:27:24,3
+Political Science,CSE015,Political Science course description.,1,False,2024-03-24 14:27:24,2024-12-05 14:27:24,3
+Anthropology,CSE016,Anthropology course description.,5,True,2024-11-01 14:27:24,2024-11-14 14:27:24,4
+Statistics,CSE017,Statistics course description.,4,True,2024-11-21 14:27:24,2024-12-09 14:27:24,1
+Engineering,CSE018,Engineering course description.,5,True,2024-04-13 14:27:24,2024-12-13 14:27:24,3
+Medicine,CSE019,Medicine course description.,3,True,2024-09-17 14:27:24,2024-11-19 14:27:24,1
+Business,CSE020,Business course description.,2,True,2024-02-17 14:27:24,2024-11-23 14:27:24,2
+Law,CSE021,Law course description.,5,False,2024-08-07 14:27:24,2024-11-25 14:27:24,4
+Astronomy,CSE022,Astronomy course description.,5,True,2024-01-19 14:27:24,2024-11-20 14:27:24,1
+Environmental Science,CSE023,Environmental Science course description.,3,False,2024-05-23 14:27:24,2024-11-22 14:27:24,1
+Linguistics,CSE024,Linguistics course description.,2,False,2024-01-20 14:27:24,2024-11-18 14:27:24,5
+Education,CSE025,Education course description.,5,True,2024-02-23 14:27:24,2024-11-14 14:27:24,3
+Ethics,CSE026,Ethics course description.,5,True,2024-02-02 14:27:24,2024-11-22 14:27:24,5
+Theology,CSE027,Theology course description.,1,False,2024-03-28 14:27:24,2024-11-23 14:27:24,2
+Architecture,CSE028,Architecture course description.,5,False,2024-07-02 14:27:24,2024-11-18 14:27:24,2
+Journalism,CSE029,Journalism course description.,2,False,2024-02-07 14:27:24,2024-11-20 14:27:24,2
+Cultural Studies,CSE030,Cultural Studies course description.,4,False,2024-09-30 14:27:24,2024-11-24 14:27:24,1
