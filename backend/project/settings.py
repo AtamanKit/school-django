@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 
 import os
+import sys
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -76,10 +77,13 @@ WSGI_APPLICATION = 'project.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
+IS_TESTING = 'pytest' in sys.argv[0] or 'test' in sys.argv
+DATABASE_NAME = os.environ.get('SQL_DATABASE_TEST') if IS_TESTING else os.environ.get('SQL_DATABASE')
+
 DATABASES = {
     'default': {
         'ENGINE': os.environ.get('SQL_ENGINE'),
-        'NAME': os.environ.get('SQL_DATABASE'),
+        'NAME': DATABASE_NAME,
         'USER': os.environ.get('SQL_USER'),
         'PASSWORD': os.environ.get('SQL_PASSWORD'),
         'HOST': os.environ.get('SQL_HOST'),
