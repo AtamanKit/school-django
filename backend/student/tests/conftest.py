@@ -1,7 +1,8 @@
 import pytest
-from student.models import Student
+from student.models import Student, Course, Teacher
 
 
+# Check if the student is created successfully
 @pytest.fixture
 def student():
     return Student.objects.create(
@@ -16,4 +17,28 @@ def student():
         is_active=True,
         created_at='2020-01-01T00:00:00Z',
         updated_at='2020-01-01T00:00:00Z',
+    )
+
+# Check if the teacher is created successfully
+@pytest.fixture
+def teacher():
+    return Teacher.objects.create(
+        first_name="Michael",
+        last_name="Palin",
+        email="michael.palin@example.com",
+        hire_data="2020-01-01",
+    )
+
+
+# Check if the course is created successfully
+@pytest.fixture
+def course(teacher):
+    return Course.objects.create(
+        name='Python 101',
+        code='PY101',
+        description='Python Programming 101',
+        credits=4,
+        is_active=True,
+        created_at='2020-01-01T00:00:00Z',
+        teacher=teacher,
     )
